@@ -82,9 +82,7 @@ The repo behind the layout logic — open source, because more people should hav
 
 ## Work That Moved Things
 
-*Selected case studies. Full portfolio coming soon)*
-
----
+*Selected case studies. (Full portfolio coming soon)*
 
 ### Allocator Pro — B2B Loyalty Program · iConnections
 **Built a membership program from concept to live product.**
