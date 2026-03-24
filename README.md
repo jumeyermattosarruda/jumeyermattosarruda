@@ -1,7 +1,7 @@
 <div align="center">
+<img width="600" height="303" alt="Screenshot 2026-03-24 at 16 51 16" src="https://github.com/user-attachments/assets/06a93845-cfd8-4e5e-88c9-81a1027bf94c" />
 
-<!-- HEADER: Replace with your custom banner image once designed -->
-<!-- Suggested tool: github.com/denvercoder1/github-readme-header-image or Canva -->
+
 
 # Juliana Meyer
 
