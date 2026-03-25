@@ -68,15 +68,10 @@ Template: https://github.com/gautamkrishnar/blog-post-workflow -->
 *Personal projects, experiments, and vibe-coded curiosities.*
 
 ### 🖼️ FrameRoom
-A web app for visualising gallery wall layouts before you commit to the nail holes.
+A web app for visualising gallery wall layouts before you commit to the nail holes. The repo behind the layout logic — open source, because more people should have good walls.
 
-[![View Repo](https://img.shields.io/badge/Repo-frameroom-000000?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/frameroom)
-[![Live App](https://img.shields.io/badge/Live-App-4CAF50?style=flat-square)](https://YOUR_FRAMEROOM_URL)
-
-**🪟 Gallery Wall Generator Repo**
-The repo behind the layout logic — open source, because more people should have good walls.
-
-[![View Repo](https://img.shields.io/badge/Repo-gallery--wall-000000?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/gallery-wall)
+[![View Repo](https://img.shields.io/badge/Repo-frameroom-000000?style=flat-square&logo=github)](https://github.com/jumeyermattosarruda/Gallery-Wall-Builder)
+[![Live App](https://img.shields.io/badge/Live-App-4CAF50?style=flat-square)](https://jumeyermattosarruda.github.io/Gallery-Wall-Builder/)
 
 ---
 
